@@ -1,0 +1,153 @@
+{
+  "palabras": [
+    {
+      "palabra": "elefante",
+      "descripcion": "Este animal tiene una memoria excepcional y puede recordar a otros durante muchos años."
+    },
+    {
+      "palabra": "jirafa",
+      "descripcion": "Este animal tiene el corazón más grande de todos los mamíferos terrestres, que puede pesar hasta 11 kilos."
+    },
+    {
+      "palabra": "leon",
+      "descripcion": "Este animal puede rugir tan fuerte que su rugido puede escucharse hasta a 8 kilómetros de distancia."
+    },
+    {
+      "palabra": "tigre",
+      "descripcion": "Este animal tiene rayas únicas en su piel, como una huella digital humana."
+    },
+    {
+      "palabra": "delfin",
+      "descripcion": "Este animal duerme con un ojo abierto para mantenerse alerta ante posibles peligros."
+    },
+    {
+      "palabra": "conejo",
+      "descripcion": "Este animal tiene una visión panorámica, lo que le permite ver detrás de él sin mover la cabeza."
+    },
+    {
+      "palabra": "zebra",
+      "descripcion": "Este animal tiene rayas únicas, al igual que las huellas dactilares en los humanos."
+    },
+    {
+      "palabra": "oso",
+      "descripcion": "Este animal puede correr hasta 40 kilómetros por hora, a pesar de su gran tamaño."
+    },
+    {
+      "palabra": "canguro",
+      "descripcion": "Este animal no puede caminar hacia atrás debido a la forma de sus patas traseras."
+    },
+    {
+      "palabra": "pinguino",
+      "descripcion": "Este animal es un ave no voladora, pero es un excelente nadador, capaz de bucear a grandes profundidades."
+    },
+    {
+      "palabra": "ballena",
+      "descripcion": "Este animal es el más grande del planeta, puede medir hasta 30 metros de largo."
+    },
+    {
+      "palabra": "jirafa",
+      "descripcion": "Este animal tiene una lengua que puede medir hasta 45 centímetros de largo y es de color negro."
+    },
+    {
+      "palabra": "lobo",
+      "descripcion": "Este animal aúlla para comunicarse con otros miembros de su manada, y su aullido puede ser escuchado a varios kilómetros de distancia."
+    },
+    {
+      "palabra": "panda",
+      "descripcion": "Este animal puede comer entre 12 y 38 kilogramos de bambú al día."
+    },
+    {
+      "palabra": "tortuga",
+      "descripcion": "Este animal puede vivir más de 100 años, convirtiéndolo en uno de los más longevos del planeta."
+    },
+    {
+      "palabra": "halcon",
+      "descripcion": "Este animal es el más rápido del mundo, alcanzando velocidades de más de 300 km/h en picado."
+    },
+    {
+      "palabra": "orca",
+      "descripcion": "Este animal es conocido como 'ballena asesina' porque es un depredador superior, capaz de cazar incluso ballenas más grandes."
+    },
+    {
+      "palabra": "rata",
+      "descripcion": "Este animal puede pasar hasta 24 horas sin beber agua, obteniendo la mayor parte de su hidratación de los alimentos que consume."
+    },
+    {
+      "palabra": "camello",
+      "descripcion": "Este animal tiene tres párpados y dos filas de pestañas para proteger sus ojos de la arena del desierto."
+    },
+    {
+      "palabra": "mariposa",
+      "descripcion": "Este insecto tiene sensores en sus patas que le permiten saborear las plantas en las que se posan."
+    },    
+      {
+        "palabra": "koala",
+        "descripcion": "Este animal duerme entre 18 y 22 horas al día debido a la baja cantidad de energía que obtiene de su dieta de hojas de eucalipto."
+      },      
+      {
+        "palabra": "cangrejo",
+        "descripcion": "Este animal tiene la capacidad de caminar hacia los lados gracias a su cuerpo aplanado y sus patas especializadas."
+      },     
+      {
+        "palabra": "flamenco",
+        "descripcion": "Este animal obtiene su color rosado de los pigmentos en los alimentos que consume, como los camarones."
+      },
+      {
+        "palabra": "hipopotamo",
+        "descripcion": "Este animal es uno de los más peligrosos del continente africano, a pesar de ser herbívoro."
+      },
+      {
+        "palabra": "armadillo",
+        "descripcion": "Este animal puede enrollarse completamente en una bola para protegerse de los depredadores."
+      },
+      {
+        "palabra": "leopardo",
+        "descripcion": "Este animal es conocido por su agilidad y su capacidad para trepar árboles con facilidad, incluso con presas grandes."
+      },
+      {
+        "palabra": "loro",
+        "descripcion": "Este animal tiene la capacidad de imitar sonidos humanos y puede aprender una gran cantidad de palabras y frases."
+      },
+      {
+        "palabra": "murcielago",
+        "descripcion": "Este animal es el único mamífero capaz de volar y tiene una excelente capacidad de ecolocalización."
+      },
+      {
+        "palabra": "crocodrilo",
+        "descripcion": "Este animal ha existido durante más de 200 millones de años, prácticamente sin cambios evolutivos."
+      },
+      {
+        "palabra": "ciervo",
+        "descripcion": "Este animal es conocido por sus astas, que se caen y vuelven a crecer cada año."
+      },
+      {
+        "palabra": "bisonte",
+        "descripcion": "Este animal es uno de los mamíferos más grandes de América del Norte y fue casi cazado hasta la extinción."
+      },
+      {
+        "palabra": "mono",
+        "descripcion": "Este animal tiene una gran inteligencia y usa herramientas en la naturaleza para resolver problemas."
+      },      
+      {
+        "palabra": "gacela",
+        "descripcion": "Este animal es muy ágil y puede correr a velocidades de hasta 80 km/h para escapar de los depredadores."
+      },
+      {
+        "palabra": "coyote",
+        "descripcion": "Este animal es conocido por su habilidad para adaptarse a diferentes entornos, desde desiertos hasta áreas urbanas."
+      },
+      {
+        "palabra": "buitre",
+        "descripcion": "Este animal tiene un excelente sentido del olfato, lo que le permite detectar carroña desde grandes distancias."
+      },
+      {
+        "palabra": "tilapia",
+        "descripcion": "Este pez es conocido por su capacidad para sobrevivir en aguas con poca oxigenación."
+      },
+      {
+        "palabra": "lince",
+        "descripcion": "Este animal tiene una excelente visión nocturna y puede ver a distancias mucho mayores que los humanos."
+      }
+    
+  ]
+}
